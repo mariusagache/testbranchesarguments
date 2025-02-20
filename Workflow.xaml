@@ -4,6 +4,7 @@
     <x:Property Name="argument2" Type="InArgument(x:String)" />
     <x:Property Name="argument3" Type="InArgument(x:String)" />
     <x:Property Name="argument4" Type="InArgument(x:String)" />
+    <x:Property Name="argument5" Type="InArgument(x:String)" />
   </x:Members>
   <VisualBasic.Settings>
     <x:Null />
