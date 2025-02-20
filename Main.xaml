@@ -73,6 +73,7 @@
         <InArgument x:TypeArguments="x:String" x:Key="argument2" />
         <InArgument x:TypeArguments="x:String" x:Key="argument3" />
         <InArgument x:TypeArguments="x:String" x:Key="argument4" />
+        <InArgument x:TypeArguments="x:String" x:Key="argument5" />
       </ui:InvokeWorkflowFile.Arguments>
     </ui:InvokeWorkflowFile>
   </Sequence>
