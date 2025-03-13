@@ -58,7 +58,7 @@
       <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="TestCase" sap:VirtualizedContainerService.HintSize="848.0000000000001,516.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="TestCase" sap:VirtualizedContainerService.HintSize="1248.8000000000002,522.84" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -84,6 +84,7 @@
           <InArgument x:TypeArguments="x:String" x:Key="argument3" />
           <InArgument x:TypeArguments="x:String" x:Key="argument4" />
           <InArgument x:TypeArguments="x:String" x:Key="argument5" />
+          <InArgument x:TypeArguments="x:String" x:Key="argument6" />
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
     </Sequence>

@@ -5,6 +5,7 @@
     <x:Property Name="argument3" Type="InArgument(x:String)" />
     <x:Property Name="argument4" Type="InArgument(x:String)" />
     <x:Property Name="argument5" Type="InArgument(x:String)" />
+    <x:Property Name="argument6" Type="InArgument(x:String)" />
   </x:Members>
   <VisualBasic.Settings>
     <x:Null />
@@ -68,7 +69,7 @@
       <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Workflow" sap:VirtualizedContainerService.HintSize="1292.8000000000002,313.704" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Workflow" sap:VirtualizedContainerService.HintSize="1248.8000000000002,313.704" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
